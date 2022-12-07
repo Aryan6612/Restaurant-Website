@@ -1,0 +1,16 @@
+.zoom{transition: transform .2s;}
+.zoom:hover{transform: scale(1.5);}
+.links{border-radius:10px;}
+body{
+    background-color: rgb(227, 148, 0);
+}
+a{
+    text-decoration: none;
+    
+}
+tr:hover{
+    background-color: orange;
+}
+body{
+    text-shadow: aquamarine;
+}
